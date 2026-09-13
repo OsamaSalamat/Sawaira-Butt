@@ -4,6 +4,7 @@ This portfolio template is designed for developers, designers, freelancers, stud
 and professionals who want a clean and attractive online presence to showcase their skills, projects, experience, and services.
 ## Live Preview
 **Live Website:** https://osamasalamat.github.io/Sawaira-Butt/
+![image alt](https://github.com/OsamaSalamat/Sawaira-Butt/blob/490fa46b6f487caf45b1527cc287fd4005130e52/Demo.png)
 ---
 **GitHub Repository:** https://github.com/OsamaSalamat/Sawaira-Butt.git
 ---
