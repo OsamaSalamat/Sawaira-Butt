@@ -126,7 +126,6 @@ BS Computer Science
 Web Developer | Software Enthusiast | Freelancer
 ### Connect With Me
 * GitHub: https://github.com/OsamaSalamat
-* LinkedIn: Add your LinkedIn URL here
 ---
 ## License
 This project is licensed under the **MIT License**.
