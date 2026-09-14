@@ -4,7 +4,15 @@ This portfolio template is designed for developers, designers, freelancers, stud
 and professionals who want a clean and attractive online presence to showcase their skills, projects, experience, and services.
 ## Live Preview
 **Live Website:** https://osamasalamat.github.io/Sawaira-Butt/
-![image alt](https://github.com/OsamaSalamat/Sawaira-Butt/blob/490fa46b6f487caf45b1527cc287fd4005130e52/Demo.png)
+<p align="center">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/490fa46b6f487caf45b1527cc287fd4005130e52/Demo.png" width="49%">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20145844.png" width="49%">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20145906.png" width="49%">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20145923.png" width="49%">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20145948.png" width="49%">
+  <img src="https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20150016.png" width="49%">
+</p>
+
 ---
 **GitHub Repository:** https://github.com/OsamaSalamat/Sawaira-Butt.git
 ---
@@ -144,3 +152,4 @@ It helps support the project and encourages further development.
 ---
 
 **Made with HTML, CSS & JavaScript by Osama Salamat.**
+https://github.com/OsamaSalamat/Sawaira-Butt/blob/9aa18476ed83a6015b6bceda1a793fb13cc25fb6/Screenshot%202026-09-14%20145844.png ye add krna hy 
